@@ -1,0 +1,12 @@
+name: ChatClear
+author: Mikey
+version: 1.0
+description: Clear your Chat!
+main: me.mikey.ChatClear.ChatClear
+commands:
+  clocal:
+    description: Clears your own chat
+  cglobal:
+    description: Clears the global chat
+  cmute:
+    description: Mutes the enitre chat
